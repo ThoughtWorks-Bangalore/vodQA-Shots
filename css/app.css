@@ -3793,7 +3793,7 @@ section {
   min-height: 100%; }
 
 .feature {
-  padding: 1em 0 2em 0;
+  padding: 0em 0 0em 0;
   position: relative;
   overflow: hidden;
   clear: both; }
@@ -4005,7 +4005,7 @@ section {
     color: black; }
   #agenda .timings .row {
     border-bottom: 1px dashed #f9c6a9;
-    width:26%;
+    /*width:26%;*/
     margin-bottom: 0;
     padding: 0.5em 0;
     overflow: hidden;
