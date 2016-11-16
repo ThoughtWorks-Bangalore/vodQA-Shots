@@ -3973,8 +3973,8 @@ section {
         -webkit-transition: background-color 300ms ease-out;
         -moz-transition: background-color 300ms ease-out;
         transition: background-color 300ms ease-out;
-        background-color: #f06819;
-        border-color: #c9520d;
+        background-color: #b5b935;
+        border-color: #b5b935;
         color: white;
         -webkit-border-radius: 3px;
         border-radius: 3px;
@@ -3982,7 +3982,7 @@ section {
         padding: 0.25em;
         margin-bottom: 0.25em; }
         #intro .actions a h4:hover, #intro .actions a h4:focus {
-          background-color: #c9520d; }
+          background-color: #b5b935; }
         #intro .actions a h4:hover, #intro .actions a h4:focus {
           color: white; }
       @media only screen and (max-width: 768px) {
